@@ -1,0 +1,3 @@
+C:/Users/victus/Desktop/my Project/C++/2048/cmake-build-debug/CMakeFiles/2048.dir
+C:/Users/victus/Desktop/my Project/C++/2048/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victus/Desktop/my Project/C++/2048/cmake-build-debug/CMakeFiles/rebuild_cache.dir
